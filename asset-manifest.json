@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/Netflixy-App/static/js/main.d424e4bd.chunk.js",
+    "main.js.map": "/Netflixy-App/static/js/main.d424e4bd.chunk.js.map",
+    "runtime-main.js": "/Netflixy-App/static/js/runtime-main.e075aaba.js",
+    "runtime-main.js.map": "/Netflixy-App/static/js/runtime-main.e075aaba.js.map",
+    "static/js/2.863f185a.chunk.js": "/Netflixy-App/static/js/2.863f185a.chunk.js",
+    "static/js/2.863f185a.chunk.js.map": "/Netflixy-App/static/js/2.863f185a.chunk.js.map",
+    "index.html": "/Netflixy-App/index.html",
+    "precache-manifest.a931dae9b207c74746af5d4a1cdb158d.js": "/Netflixy-App/precache-manifest.a931dae9b207c74746af5d4a1cdb158d.js",
+    "service-worker.js": "/Netflixy-App/service-worker.js",
+    "static/js/2.863f185a.chunk.js.LICENSE.txt": "/Netflixy-App/static/js/2.863f185a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e075aaba.js",
+    "static/js/2.863f185a.chunk.js",
+    "static/js/main.d424e4bd.chunk.js"
+  ]
+}
