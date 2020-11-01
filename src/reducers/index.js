@@ -1,8 +1,21 @@
 import { combineReducers} from 'redux';
-import movies from './movies';
+import { persistReducer } from 'redux-persist';
+import storage from "redux-persist/lib/storage";
 import selectedMovie from './selectedmovies';
+import movies from './movies';
+import isLoading from './isLoading';
 
-export default combineReducers({
+
+const persistConfig = {
+    key :"netflixy",
+    storage
+}
+
+const rootReducer = combineReducers({
     movies,
-    selectedMovie
+    selectedMovie,
+    isLoading
 });
+
+const persistedReducer = persistReducer(persistConfig, rootReducer);
+export default persistedReducer;
