@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/Netflixy-App/static/js/main.43a51ef0.chunk.js",
-    "main.js.map": "/Netflixy-App/static/js/main.43a51ef0.chunk.js.map",
+    "main.js": "/Netflixy-App/static/js/main.8782ba10.chunk.js",
+    "main.js.map": "/Netflixy-App/static/js/main.8782ba10.chunk.js.map",
     "runtime-main.js": "/Netflixy-App/static/js/runtime-main.e075aaba.js",
     "runtime-main.js.map": "/Netflixy-App/static/js/runtime-main.e075aaba.js.map",
-    "static/js/2.cf1a7218.chunk.js": "/Netflixy-App/static/js/2.cf1a7218.chunk.js",
-    "static/js/2.cf1a7218.chunk.js.map": "/Netflixy-App/static/js/2.cf1a7218.chunk.js.map",
+    "static/js/2.7e87bb05.chunk.js": "/Netflixy-App/static/js/2.7e87bb05.chunk.js",
+    "static/js/2.7e87bb05.chunk.js.map": "/Netflixy-App/static/js/2.7e87bb05.chunk.js.map",
     "index.html": "/Netflixy-App/index.html",
-    "precache-manifest.76c7be534828550e8c448108c9ef2782.js": "/Netflixy-App/precache-manifest.76c7be534828550e8c448108c9ef2782.js",
+    "precache-manifest.0e530ed5520f2ca3c85429b9e1a3afae.js": "/Netflixy-App/precache-manifest.0e530ed5520f2ca3c85429b9e1a3afae.js",
     "service-worker.js": "/Netflixy-App/service-worker.js",
-    "static/js/2.cf1a7218.chunk.js.LICENSE.txt": "/Netflixy-App/static/js/2.cf1a7218.chunk.js.LICENSE.txt"
+    "static/js/2.7e87bb05.chunk.js.LICENSE.txt": "/Netflixy-App/static/js/2.7e87bb05.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.e075aaba.js",
-    "static/js/2.cf1a7218.chunk.js",
-    "static/js/main.43a51ef0.chunk.js"
+    "static/js/2.7e87bb05.chunk.js",
+    "static/js/main.8782ba10.chunk.js"
   ]
 }
