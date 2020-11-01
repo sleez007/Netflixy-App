@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "64a9c3b5553f963125741cd36a642f3e",
+    "revision": "c3d637cfb55faa047b501eee18319b43",
     "url": "/Netflixy-App/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Netflixy-App/static/js/2.7e87bb05.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "69fa249d5edd4037b199",
-    "url": "/Netflixy-App/static/js/main.8782ba10.chunk.js"
+    "revision": "b312984fba305f73d7c5",
+    "url": "/Netflixy-App/static/js/main.27964bde.chunk.js"
   },
   {
     "revision": "825b5577b0d0bbdaf8e3",
