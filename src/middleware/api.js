@@ -3,7 +3,7 @@ import { API } from "../constants/actionTypes";
 import { apiEnd, apiStart } from "../actions/apiActions";
 
 //axios default config
-axios.defaults.baseURL = "data.json";
+axios.defaults.baseURL = "https://sleez007.github.io/Netflixy-App/data.json";
 axios.defaults.headers.common["Content-Type"] = "application/json";
 axios.defaults.headers.common["Authorization"] = `Bearer ${"fakeAccessToken"}`;
 
